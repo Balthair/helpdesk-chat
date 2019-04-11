@@ -12,7 +12,6 @@
 module.exports.bootstrap = async function(cb) {
 
 	sails.config.appName = "Sails Chat App";
-
     //Generate Chat Message 
     try {
 

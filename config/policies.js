@@ -20,4 +20,7 @@ module.exports.policies = {
   UserController: {
     '*': true
   },
+  ChatMessageController: {
+    '*': true
+  },
 };
